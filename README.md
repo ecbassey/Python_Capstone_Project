@@ -13,3 +13,49 @@ Inventory management system for a small store. It will:
 3.	Recommends what to restock based on sales
 4.	Best and worst performing products
 5.	low-stock alerts, basic sales analysis, and restocking recommendations
+
+### Core Feature
+#### 1. Product Management:
+   
+- Each product should be tracked
+- This lets the store know what exists and how much is left.
+
+
+#### 2. Inventory Reports:
+
+Quick inventroy insights, not guesswork.
+Basic reports like:
+- Current inventory list
+- Low-stock products
+- Total inventory value
+- Best-selling products
+
+
+#### 3. Sales Tracking:
+
+What sells the most? What sells the least?
+
+
+#### 4. Stock Operations
+
+Your system should be able to:
+- Add new products
+- Update product details
+- Increase stock (restocking)
+- Decrease stock (sales)
+👉 This keeps inventory accurate after every sale.
+
+#### 5. Low-Stock Alerts
+
+When stock goes below a set level:
+- Warn the store owner
+- Suggest restocking
+👉 Prevents the “Oops, we’re out of stock” moment.
+
+
+
+## Technology Used
+Python (OOP)
+SQLite
+CSV
+BeautifulSoup + requests
