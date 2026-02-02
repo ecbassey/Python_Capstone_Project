@@ -54,8 +54,26 @@ When stock goes below a set level:
 
 
 
-## Technology Used
-Python (OOP)
-SQLite
-CSV
-BeautifulSoup + requests
+### Technology Used
+- Python (OOP)
+- SQLite
+- CSV
+- BeautifulSoup + requests
+
+
+### Optional (Nice-to-Have)
+
+- User login (admin vs cashier)
+- Barcode scanning
+- Export reports to CSV
+- Simple GUI 
+- Sales charts 
+
+
+### What Makes It a good inventory system.
+
+A good system is:
+✅ Easy to understand
+✅ Hard to break
+✅ Easy to extend
+✅ Matches real store needs
