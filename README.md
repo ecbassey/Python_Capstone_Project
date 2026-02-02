@@ -1,6 +1,11 @@
 # Python_Capstone_Project
-Management inventory system
 
+## Management inventory system
+
+A Python capstone project supervised by ~ Melody Bonareri
+
+### Project Description
+The system helps a small store track products, manage sales, prevent running out of stock, and understand what sells best.
 
 Inventory management system for a small store. It will:
 1.	Tracks products, stock levels, and suppliers
