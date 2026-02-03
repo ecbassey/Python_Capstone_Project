@@ -17,7 +17,7 @@ Inventory management system for a small store. It will:
 ### Core Feature
 #### 1. Product Management:
    
-- Each product should be tracked
+- Each product will be tracked
 - This lets the store know what exists and how much is left.
 
 
@@ -38,7 +38,7 @@ What sells the most? What sells the least?
 
 #### 4. Stock Operations
 
-Your system should be able to:
+The system should be able to:
 - Add new products
 - Update product details
 - Increase stock (restocking)
