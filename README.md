@@ -60,10 +60,12 @@ When stock goes below a set level:
 - CSV
 - BeautifulSoup + requests
 
+### Must Have
+- User login (admin vs cashier)
+admin vs other functionality???
 
 ### Optional (Nice-to-Have)
 
-- User login (admin vs cashier)
 - Barcode scanning
 - Export reports to CSV
 - Simple GUI 
