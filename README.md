@@ -66,8 +66,10 @@ When stock goes below a set level:
 - BeautifulSoup + requests
 
 ### Must Have
-- User login 
-admin vs other functionality???
+- Admin priviledge vs other user access
+  . What can an admin do that others are not allowed to.
+  . What happens if a non-admin tries to use admin priviledge access.
+
 
 ### Optional (Nice-to-Have)
 
