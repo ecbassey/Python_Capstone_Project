@@ -67,8 +67,8 @@ When stock goes below a set level:
 
 ### Must Have
 Admin priviledge vs other user access
-- What can an admin do that others are not allowed to.
-- What happens if a non-admin tries to use admin priviledge access.
+- Only ADMIN users are able to: add products, delete products.
+- They would be prompted to enter a password.
 
 
 ### Optional (Nice-to-Have)
