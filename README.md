@@ -65,11 +65,6 @@ When stock goes below a set level:
 - CSV
 - BeautifulSoup + requests
 
-### Must Have
-Admin priviledge vs other users access
-- Only ADMIN users are able to: add products, delete products.
-- They would be prompted to enter a password.
-
 
 ### Optional (Nice-to-Have)
 
