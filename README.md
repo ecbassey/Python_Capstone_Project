@@ -66,7 +66,7 @@ When stock goes below a set level:
 - BeautifulSoup + requests
 
 ### Must Have
-Admin priviledge vs other user access
+Admin priviledge vs other users access
 - Only ADMIN users are able to: add products, delete products.
 - They would be prompted to enter a password.
 
