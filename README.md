@@ -66,9 +66,15 @@ When stock goes below a set level:
 - BeautifulSoup + requests
 
 
+### Must have
+
+Admin access for certain functions:
+- Password is required to add products
+- Password is required to delete products
+
+
 ### Optional (Nice-to-Have)
 
-- Barcode scanning
 - Export reports to CSV
 - Simple GUI 
 - Sales charts 
