@@ -5,7 +5,7 @@
 A Python capstone project supervised by ~ Melody Bonareri
 
 ### Problem Statement
-Bookstores manage a wide variety of titles with varying demand, publication cycles, and suppliers. Many small and medium-sized bookstores rely on manual record-keeping or basic spreadsheets to track book inventory and sales. These methods make it difficult to accurately monitor stock levels, identify fast-selling and slow-moving titles, and determine when and how much to reorder from suppliers.
+Bookstores manage a wide variety of titles with varying demand, and publishers/suppliers. Many small and medium-sized bookstores rely on manual record-keeping or basic spreadsheets to track book inventory and sales. These methods make it difficult to accurately monitor stock levels, identify fast-selling and slow-moving titles, and determine when and how much to reorder from suppliers.
 
 As a result, bookstores often experience stock-outs of popular books, excess inventory of low-demand titles, and inefficient restocking decisions. There is a need for an automated inventory management system that can track books, manage stock levels, record sales, and analyze sales trends. Such a system would help bookstore owners maintain optimal inventory levels, reduce losses, and make informed, data-driven restocking decisions.
 
@@ -13,7 +13,7 @@ As a result, bookstores often experience stock-outs of popular books, excess inv
 The system helps a small store track products, manage sales, prevent running out of stock, and understand what sells best.
 
 Inventory management system for a small store. It will:
-1.	Tracks products, stock levels, and suppliers
+1.	Tracks products, stock levels, and suppliers/publishers
 2.	It will notify the business when restock is needed (low stock alert)
 3.	Recommends what to restock based on sales
 4.	Best and worst performing products
